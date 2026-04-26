@@ -115,7 +115,3 @@ Understanding SPL is a valuable skill for:
 SOC - Threat Research Intern
 
 ---
-
-## Disclaimer
-
-This project was created in a personal lab environment for educational and portfolio purposes only.
